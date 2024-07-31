@@ -1,1 +1,1 @@
-Website for data compression.￼Enter
+Website for data compression.

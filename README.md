@@ -1,1 +1,1 @@
-Website for data compression.
+Website for picture compression.
